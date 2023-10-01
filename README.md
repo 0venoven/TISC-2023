@@ -34,12 +34,8 @@ My strategy was to:
 
 ## Challenges Faced
 
-A lot of time on reading was needed to make sure I at least knew the pre-requisites to a topic and understand how to approach it. But this only pushed me further in to explore more about the same topics.
+A lot of time on reading was needed to make sure I at least knew the pre-requisites to a topic and understand how to approach it. Restraints from school work and other projects meant that I could only take on the challenges whenever I was having a long break... which wasn't a lot of time. :p
 
 ## Conclusion and Acknowledgments
 
 Participating in TISC 2023 was an incredible learning experience. Despite juggling this along with other projects, I learnt a lot and managed to hone my approach and strategy. I would like to thank my friends for their support throughout the competition.
-
----
-
-Feel free to reach out if you have any questions or if you'd like to discuss specific challenges in more detail :> .
