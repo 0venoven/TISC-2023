@@ -32,6 +32,10 @@ My strategy was to:
 
 5. Document (with a lot of screenshots) as I go, so that I can retrace my steps later.
 
+## Notion
+
+Got a little lazy and decided to link my [notion](https://perpetual-feather-e92.notion.site/TISC-2023-bf72a03470b445b097a9e69ed5ec26bd?pvs=4) instead
+
 ## Challenges Faced
 
 A lot of time on reading was needed to make sure I at least knew the pre-requisites to a topic and understand how to approach it. Restraints from school work and other projects meant that I could only take on the challenges whenever I was having a long break... which wasn't a lot of time. :p
